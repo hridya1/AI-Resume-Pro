@@ -181,7 +181,7 @@ if page == "Dashboard":
 
     st.markdown("""
     <h1 style='font-size:34px;font-weight:700;color:#1d1d1f;margin-bottom:6px;'>
-    Screening Dashboard
+    Talent Screening Dashboard
     </h1>
     <p style='font-size:16px;color:#6e6e73;margin-bottom:22px;'>
     Upload resumes and manage candidate screening workflow.
